@@ -8,7 +8,7 @@
 Клонировать репозиторий и перейти в него в командной строке (испольщуем ssh):
 
 ```
-git clone git@github.com:trdMichaelM/api_yamdb.git
+git clone git@github.com:Slavchick12/api_yamdb.git
 ```
 
 ```
